@@ -3,7 +3,7 @@
 > A RAPP front door on the public internet. Real estate, not software.
 
 - **Address:** `kody-w.github.io/rapp-plant-smoke-20260505-233637`
-- **Rappid:** `d8c62187-16f1-48b1-8231-cd4c4e10132d`
+- **Rappid:** `rappid:@kody-w/rapp-plant-smoke-20260505-233637:d71b8068a192c1050c3a032c207abda38dbbfd5fe0c97a6e564e8b85c20f86bd`
 - **Kernel:** v0.6.0 (byte-identical to the grail at `kody-w/rapp-installer`)
 - **Planted by:** [@kody-w](https://github.com/kody-w)
 
